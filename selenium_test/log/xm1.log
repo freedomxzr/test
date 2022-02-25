@@ -1,0 +1,15 @@
+2022-01-19 16:45:15,844 INFO [base.py(__init__:17)] - 正在初始化driver:<selenium.webdriver.edge.webdriver.WebDriver (session="45ae542d3e50c0cb0c995a5bb212f5e7")>
+2022-01-19 16:45:15,846 INFO [page_xmglht_login.py(page_xmhtgl_login:25)] - 正在调用项目管理后台的登录方法，用户名:19906876087	密码:xzr123123
+2022-01-19 16:45:16,850 INFO [base.py(base_find:26)] - 正在查找元素
+2022-01-19 16:45:16,864 INFO [base.py(base_input:38)] - 正在对('css selector', '[placeholder="账号"]')元素进行清空操作
+2022-01-19 16:45:16,891 INFO [base.py(base_input:40)] - 正在对('css selector', '[placeholder="账号"]')元素进行输入操作19906876087
+2022-01-19 16:45:16,949 INFO [base.py(base_find:26)] - 正在查找元素
+2022-01-19 16:45:16,969 INFO [base.py(base_input:38)] - 正在对('css selector', '[placeholder="密码"]')元素进行清空操作
+2022-01-19 16:45:16,996 INFO [base.py(base_input:40)] - 正在对('css selector', '[placeholder="密码"]')元素进行输入操作xzr123123
+2022-01-19 16:45:18,054 INFO [base.py(base_find:26)] - 正在查找元素
+2022-01-19 16:45:18,103 INFO [base.py(base_find:26)] - 正在查找元素
+2022-01-19 16:45:18,648 INFO [base.py(base_get_text:52)] - 正在对('css selector', '.el-dropdown-link')元素进行获取文本,获取的文本为19906876087
+2022-01-19 16:45:18,648 INFO [base.py(base_find:26)] - 正在查找元素
+2022-01-19 16:45:18,663 ERROR [test01_mxglht_login.py(test_xmglht_login:27)] - 断言失败,错误信息:assert '19906876087' == '19906876088',正在截图错误页面
+2022-01-19 16:45:18,664 INFO [base.py(base_get_img:58)] - 正在截取xmglht页面图片
+2022-01-19 16:45:19,064 INFO [base.py(base_get_img:64)] - 截图成功,文件为:C:\Users\G3\PycharmProjects\selenium_test\image\xmglht\xmglht2022-01-19-16_45_18.png

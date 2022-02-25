@@ -1,0 +1,248 @@
+1642483461516	geckodriver	INFO	Listening on 127.0.0.1:6333
+1642483464591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "6334" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofile7zmAHk"
+1642483464859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofile7zmAHk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:6334/devtools/browser/fe8d91a6-fcfa-41be-9b9d-331c2782c35d
+1642483466786	Marionette	INFO	Listening on port 6340
+1642483467267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642484062517	Marionette	INFO	Stopped listening on port 6340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ofilekfdz2d"
+1642484028110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilekfdz2d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9902/devtools/browser/7de98c29-375a-4645-9a9b-a095a1020daf
+1642484029930	Marionette	INFO	Listening on port 9909
+1642484030010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642484059397	Marionette	INFO	Stopped listening on port 9909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642484494606	geckodriver	INFO	Listening on 127.0.0.1:10265
+1642484497662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10266" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileaCmM0v"
+1642484497935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileaCmM0v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10266/devtools/browser/f2625d50-097f-4f05-bfaa-586f06f58c65
+1642484499674	Marionette	INFO	Listening on port 10271
+1642484499703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642484519292	Marionette	INFO	Stopped listening on port 10271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10287/devtools/browser/9c3dcac2-41b8-453f-9fc5-09db8f0e2fd8
+1642484504827	Marionette	INFO	Listening on port 10303
+1642484504848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642484509771, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642484513636	Marionette	INFO	Stopped listening on port 10303
+[Parent 17416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 17416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642484578042	geckodriver	INFO	Listening on 127.0.0.1:10376
+1642484581112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10377" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilePJUByZ"
+1642484581374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilePJUByZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10377/devtools/browser/04e48c8a-7fae-4262-879f-6b60079e3bb3
+1642484583099	Marionette	INFO	Listening on port 10383
+1642484583166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642484612711	Marionette	INFO	Stopped listening on port 10383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+arch.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10403/devtools/browser/f96a93d1-1a34-4a70-b5ca-0d76251f1bfd
+1642484588249	Marionette	INFO	Listening on port 10416
+1642484588329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642484593250, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642484597409	Marionette	INFO	Stopped listening on port 10416
+[Parent 17360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642488220931	geckodriver	INFO	Listening on 127.0.0.1:12288
+1642488223998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12289" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileOxqc65"
+1642488224273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileOxqc65\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12289/devtools/browser/992897aa-714d-4739-bea5-03f13676898f
+1642488225966	Marionette	INFO	Listening on port 12296
+1642488226029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642488241712	Marionette	INFO	Stopped listening on port 12296
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 21184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642488234755, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642488238485	Marionette	INFO	Stopped listening on port 12335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642578092551	geckodriver	INFO	Listening on 127.0.0.1:10539
+1642578095616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10540" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilerpa4Cb"
+1642578096251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilerpa4Cb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10540/devtools/browser/0a8dcfcd-038a-4a93-9f39-0ce49a267aa2
+1642578098344	Marionette	INFO	Listening on port 10545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1642578098825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642578101861, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642578103753	Marionette	INFO	Stopped listening on port 10545
+1642578224762	geckodriver	INFO	Listening on 127.0.0.1:10644
+1642578227808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10645" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileuHgVVV"
+1642578228103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileuHgVVV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10645/devtools/browser/4b460355-25e3-49b4-a990-65d790034e95
+1642578229866	Marionette	INFO	Listening on port 10650
+1642578229961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642578234298, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642578237270	Marionette	INFO	Stopped listening on port 10650
+[Parent 19624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642578572063	geckodriver	INFO	Listening on 127.0.0.1:10829
+1642578575150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10830" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileOF522F"
+1642578575430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileOF522F\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:10830/devtools/browser/08be4c66-2593-4c35-8944-cc7b9a72d372
+1642578577426	Marionette	INFO	Listening on port 10837
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1642578577800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642578579111, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642578582799	Marionette	INFO	Stopped listening on port 10837
+[Parent 3540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642578807367	geckodriver	INFO	Listening on 127.0.0.1:10981
+1642578810446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10982" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileUkF3dZ"
+1642578810703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileUkF3dZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10982/devtools/browser/5aa85e13-009e-455f-a811-8b1510ec77c3
+1642578812444	Marionette	INFO	Listening on port 10987
+1642578812507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642578813618, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642578818816	Marionette	INFO	Stopped listening on port 10987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642579524981	geckodriver	INFO	Listening on 127.0.0.1:11369
+1642579528057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11370" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileDigZBj"
+1642579528319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileDigZBj\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:11370/devtools/browser/f7c5a58b-a305-4a6a-97f8-04120ca4196d
+1642579530113	Marionette	INFO	Listening on port 11375
+1642579530216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642579533173, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642579537220	Marionette	INFO	Stopped listening on port 11375
+[Parent 12988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642579929926	geckodriver	INFO	Listening on 127.0.0.1:11834
+1642579932991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11835" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileo4UtPo"
+1642579933250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileo4UtPo\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:11835/devtools/browser/10d685b7-60eb-4ab3-a648-2cd7436575b4
+1642579935068	Marionette	INFO	Listening on port 11840
+1642579935130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642579937656, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642579940941	Marionette	INFO	Stopped listening on port 11840
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642580063431	geckodriver	INFO	Listening on 127.0.0.1:11952
+1642580066492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "11953" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileaSTc9e"
+1642580066751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofileaSTc9e\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:11953/devtools/browser/a5ed4883-876d-4947-9057-941a67f485b9
+1642580068556	Marionette	INFO	Listening on port 11958
+1642580068649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642580071373, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642580077127	Marionette	INFO	Stopped listening on port 11958
+[Parent 27556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642580198718	geckodriver	INFO	Listening on 127.0.0.1:12060
+1642580201797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12061" "-no-remote" "-profile" "C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilecf3uWL"
+1642580202045	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/SearchService.jsm, line 204: Error: Something tried to use the search service before it's been properly intialized. Please examine the stack trace to figure out what and where to fix it:
+_ensureInitialized@resource://gre/modules/SearchService.jsm:204:15
+_getEngineDefault@resource://gre/modules/SearchService.jsm:2163:10
+get defaultEngine@resource://gre/modules/SearchService.jsm:2295:17
+_cacheL10nStrings@resource:///modules/UrlbarView.jsm:2178:11
+onQueryStarted@resource:///modules/UrlbarView.jsm:583:10
+notify@resource:///modules/UrlbarController.jsm:652:25
+startQuery@resource:///modules/UrlbarController.jsm:133:10
+startQuery@resource:///modules/UrlbarInput.jsm:1355:52
+_on_input@resource:///modules/UrlbarInput.jsm:3054:10
+handleEvent@resource:///modules/UrlbarInput.jsm:425:23
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\G3\\AppData\\Local\\Temp\\rust_mozprofilecf3uWL\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/UrlbarView.jsm, line 2178: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Something tried to use the search service before it's been properly intialized. Please examine the stack trace to figure out what and where to fix it:
+_ensureInitialized@resource://gre/modules/SearchService.jsm:204:15
+_getEngineDefault@resource://gre/modules/SearchService.jsm:2163:10
+get defaultEngine@resource://gre/modules/SearchService.jsm:2295:17
+_cacheL10nStrings@resource:///modules/UrlbarView.jsm:2178:11
+onQueryStarted@resource:///modules/UrlbarView.jsm:583:10
+notify@resource:///modules/UrlbarController.jsm:652:25
+startQuery@resource:///modules/UrlbarController.jsm:133:10
+startQuery@resource:///modules/UrlbarInput.jsm:1355:52
+_on_input@resource:///modules/UrlbarInput.jsm:3054:10
+handleEvent@resource:///modules/UrlbarInput.jsm:425:23
+" {file: "resource://gre/modules/SearchService.jsm" line: 204}]'[JavaScript Error: "Something tried to use the search service before it's been properly intialized. Please examine the stack trace to figure out what and where to fix it:
+_ensureInitialized@resource://gre/modules/SearchService.jsm:204:15
+_getEngineDefault@resource://gre/modules/SearchService.jsm:2163:10
+get defaultEngine@resource://gre/modules/SearchService.jsm:2295:17
+_cacheL10nStrings@resource:///modules/UrlbarView.jsm:2178:11
+onQueryStarted@resource:///modules/UrlbarView.jsm:583:10
+notify@resource:///modules/UrlbarController.jsm:652:25
+startQuery@resource:///modules/UrlbarController.jsm:133:10
+startQuery@resource:///modules/UrlbarInput.jsm:1355:52
+_on_input@resource:///modules/UrlbarInput.jsm:3054:10
+handleEvent@resource:///modules/UrlbarInput.jsm:425:23
+" {file: "resource://gre/modules/SearchService.jsm" line: 204}]' when calling method: [nsISearchService::defaultEngine]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:12061/devtools/browser/af0564a6-3665-4557-a833-7d4659e4c9e4
+1642580203684	Marionette	INFO	Listening on port 12066
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1642580203858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dlswbr.baidu.com/heicha/mw/abclite-2063-s.js?_t=1642580206892, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://webapi.amap.com/maps?key=c684b0d5a411538bcacb329d282375f4&v=1.4.4&plugin=AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.Scale,Scale,AMap.OverView,OverView,AMap.ToolBar,ToolBar,AMap.MapType,MapType,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor,AMap.Geocoder,Geocoder,AMap.Autocomplete,Autocomplete,AMap.PlaceSearch,PlaceSearch,AMap.PolyEditor,PolyEditor,AMap.CircleEditor,CircleEditor&callback=amapInitComponent, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://greenshop-uat.gtdreamlife.com"
+1642580211207	Marionette	INFO	Stopped listening on port 12066
+[Parent 27068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
