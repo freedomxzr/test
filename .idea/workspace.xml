@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ace7470-faf6-42e9-9b8b-8483000fd46a" name="Changes" comment="add:a.py by pycharm" />
+    <list default="true" id="9ace7470-faf6-42e9-9b8b-8483000fd46a" name="Changes" comment="add:配置文件 by pycharm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646122828261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add:配置文件 by pycharm">
+      <created>1646122973388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646122973388</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +212,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -211,7 +232,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add:a.py by pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="add:a.py by pycharm" />
+    <MESSAGE value="add:配置文件 by pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:配置文件 by pycharm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
